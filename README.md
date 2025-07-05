@@ -13,7 +13,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 ## 📚 Exercises
 
 ### Easy
-1. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/tree/main/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
+1. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz/description.md) - Basic iteration and conditional logic
 
 ### Medium
 *Coming soon!*
