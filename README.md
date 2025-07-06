@@ -14,6 +14,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 
 ### Easy
 1. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
+2. [Single Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/singlenumber) - Bit manipulation with XOR operation
 
 ### Medium
 *Coming soon!*
@@ -36,7 +37,7 @@ src/main/java/com/leetcode/exercices/
 1. Each exercise is organized in its own package
 2. Every solution includes:
    - `Solution.java`: The implementation
-   - `description.md`: Problem statement and examples
+   - `README.md`: Problem statement and examples
    - `thought_process.md`: Detailed explanation of the solution approach
 
 ## 🚀 Running the Code
