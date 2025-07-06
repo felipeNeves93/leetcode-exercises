@@ -15,6 +15,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 ### Easy
 1. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
 2. [Single Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/singlenumber) - Bit manipulation with XOR operation
+3. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
 
 ### Medium
 *Coming soon!*
