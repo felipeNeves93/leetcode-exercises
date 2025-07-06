@@ -18,7 +18,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 3. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
 
 ### Medium
-*Coming soon!*
+1. [Factorial Trailing Zeroes](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/factorialtrailingzeroes) - Mathematical approach to count factors
 
 ### Hard
 *Coming soon!*
