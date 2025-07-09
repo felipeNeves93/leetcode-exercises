@@ -13,9 +13,10 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 ## 📚 Exercises
 
 ### Easy
-1. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
-2. [Single Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/singlenumber) - Bit manipulation with XOR operation
-3. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
+1. [Reverse String](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/reversestring) - Two-pointer in-place array manipulation
+2. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
+3. [Single Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/singlenumber) - Bit manipulation with XOR operation
+4. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
 
 ### Medium
 1. [Reverse Integer](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/reverseinteger) - Number manipulation with overflow handling
