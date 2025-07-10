@@ -24,6 +24,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 1. [Repeated DNA Sequences](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/repeateddnasequences) - Sliding window with hash set for sequence tracking
 2. [Reverse Integer](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/reverseinteger) - Number manipulation with overflow handling
 3. [Factorial Trailing Zeroes](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/factorialtrailingzeroes) - Mathematical approach to count factors
+4. [Longest palindromic substring](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/longestpalindromesubstring) - Expand around center for palindromes
 
 ### Hard
 *Coming soon!*
