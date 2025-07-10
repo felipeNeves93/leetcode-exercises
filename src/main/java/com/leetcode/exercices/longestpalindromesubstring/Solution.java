@@ -1,4 +1,4 @@
-package com.leetcode.exercices.longestpalindrome;
+package com.leetcode.exercices.longestpalindromesubstring;
 
 public class Solution {
 
