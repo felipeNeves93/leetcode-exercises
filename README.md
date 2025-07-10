@@ -20,8 +20,9 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 5. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
 
 ### Medium
-1. [Reverse Integer](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/reverseinteger) - Number manipulation with overflow handling
-2. [Factorial Trailing Zeroes](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/factorialtrailingzeroes) - Mathematical approach to count factors
+1. [Repeated DNA Sequences](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/repeateddnasequences) - Sliding window with hash set for sequence tracking
+2. [Reverse Integer](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/reverseinteger) - Number manipulation with overflow handling
+3. [Factorial Trailing Zeroes](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/factorialtrailingzeroes) - Mathematical approach to count factors
 
 ### Hard
 *Coming soon!*
