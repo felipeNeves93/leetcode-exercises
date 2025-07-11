@@ -19,6 +19,7 @@ Welcome to my LeetCode exercises repository! This is a collection of programming
 4. [Fizz Buzz](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/fizzbuzz) - Basic iteration and conditional logic
 5. [Single Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/singlenumber) - Bit manipulation with XOR operation
 6. [Palindrome Number](https://github.com/felipeNeves93/leetcode-exercises/blob/master/src/main/java/com/leetcode/exercices/palindromenumber) - Number manipulation and comparison
+7. [Middle of the Linked List](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/middleoflinkedlist) - Two-pointer technique (fast and slow pointers)
 
 ### Medium
 1. [Repeated DNA Sequences](https://github.com/felipeNeves93/leetcode-exercises/tree/master/src/main/java/com/leetcode/exercices/repeateddnasequences) - Sliding window with hash set for sequence tracking
